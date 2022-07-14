@@ -1,2 +1,2 @@
 # L7-xRev
-Free L7 Methods for stressers made by xrev
+Free L7 Method for stressers made by xrev
